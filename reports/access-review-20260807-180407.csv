@@ -1,0 +1,6 @@
+"Principal","SamAccountName","Type","Enabled","LastLogonDate","PrivilegedRoles","HygieneFindings","SoDViolations","ReviewDecision","Reviewer","ReviewDate"
+"sod-testuser","sod-testuser","user","True",,"Domain Admins; Administrators; T0-Admins; T2-Admins","Dormant","Tier0-Tier2 span","","",""
+"Administrator","Administrator","user","True","8/2/2026 1:07:25 PM","Domain Admins; Enterprise Admins; Schema Admins; Administrators; Group Policy Creator Owners","PasswordNeverExpires","","","",""
+"t2-admin","t2-admin","user","True",,"T2-Admins","Dormant","","","",""
+"t0-admin","t0-admin","user","True","8/2/2026 6:05:08 PM","Domain Admins; Administrators; T0-Admins","","","","",""
+"t1-admin","t1-admin","user","True","8/6/2026 6:18:22 PM","T1-Admins","","","","",""
