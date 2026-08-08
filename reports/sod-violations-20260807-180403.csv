@@ -1,0 +1,2 @@
+"Principal","SamAccountName","RuleName","GroupA","GroupB","Rationale"
+"sod-testuser","sod-testuser","Tier0-Tier2 span","T0-Admins","T2-Admins","No account should hold both Tier 0 and Tier 2 admin rights; breaks tier isolation."
