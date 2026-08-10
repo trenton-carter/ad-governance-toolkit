@@ -157,3 +157,12 @@ PowerShell automation · Active Directory administration · identity governance
 privileged access review · account lifecycle hygiene · Pester testing /
 engineering discipline · hybrid-identity architecture (Microsoft Graph / Entra
 extension design).
+
+---
+
+## Companion projects
+
+This toolkit is the **governance** pillar of a three-part IAM portfolio:
+
+- **[Tiered Privileged Access Lab](https://github.com/trenton-carter/tiered-pam-lab)** — privileged access management: credential vaulting and rotation, session recording, and tiered least-privilege administration.
+- **[Keycloak SSO & AD Federation](https://github.com/trenton-carter/keycloak-ad-federation)** — identity federation and SSO: Keycloak federated to Active Directory over LDAPS, demonstrating OIDC and SAML.
